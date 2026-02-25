@@ -7,7 +7,7 @@ public class SphereScript : MonoBehaviour
 
     [SerializeField]
     private Vector3 direction = new Vector3(-5, 0, 0);
-    private Vector3 startPos;
+    
 
     [SerializeField]
     private Rigidbody rb;
@@ -15,7 +15,7 @@ public class SphereScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        startPos = transform.position;
+        
     }
 
     
