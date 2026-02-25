@@ -117,3 +117,7 @@ InitTestScene*.unity*
 *.sln
 *.csproj
 *.unityproj
+
+# macOS clutter
+.DS_Store
+**/.DS_Store
