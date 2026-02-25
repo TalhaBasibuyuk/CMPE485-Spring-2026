@@ -1193,6 +1193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: {x: 0, y: 39, z: 0}
+  rb: {fileID: 1237853189}
 --- !u!1 &1397316371
 GameObject:
   m_ObjectHideFlags: 0
